@@ -1,4 +1,6 @@
 # Olympic-Data-Analysis
-Complete Interactive Olympic Dataset Analysis \n
-Hello Everyone! This is an Interactive Streamlit application for analyse Olympic dataset.\n
+Hello Everyone! This is an Interactive Streamlit application for analyzing the Olympic dataset.<br />
+Download all the files in a directory. Extract the compressed dataset file provided.<br/>
+Run command streamlit run app.py.
+
 
