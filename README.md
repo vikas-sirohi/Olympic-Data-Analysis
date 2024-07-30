@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1d07d538-7289-43c6-b0b5-7ed658566c54)# Olympic-Data-Analysis
+# Olympic-Data-Analysis
 Hello Everyone! This is an Interactive Streamlit application for analyzing the Olympic dataset.<br />
 Download all the files in a directory. Extract the compressed dataset file provided.<br> 
 And install packages in requirements.txt(pip install requirements.txt)<br/>
